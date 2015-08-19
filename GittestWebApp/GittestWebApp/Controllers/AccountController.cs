@@ -20,7 +20,7 @@ namespace GittestWebApp.Controllers
 
         public AccountController()
         {
-            string test = "testing2";
+            string test = "testing3";
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
